@@ -1,0 +1,6 @@
+-Variable: Forma de almacenar valor de algo para luego utilizarlo.
+-String: Bloque de texto que se define entre comillas dobles o simples.
+-Funciones: Objetos que se utilizan para utilizar las variables. Con ellas se pueden calcular, cambiar, etc, las mismas. 
+-Return: Es la forma de declara una función. Return devuelve lo que se encuentra fuera de la misma.
+-Declaración if: Operador de declaración. Verifica si nuestra función es true o false.
+-Booleanos: verdadero o falso.
